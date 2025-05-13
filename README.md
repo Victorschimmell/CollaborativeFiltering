@@ -35,12 +35,9 @@ This project aims to:
 - Python
 - NumPy / Pandas
 - Scikit-learn
-- Matplotlib / Seaborn
-
-## 📜 License
-
-MIT License. See `LICENSE` file for details.
+- Matplotlib
+- Surprise
 
 ## 🙋‍♂️ Author
 
-Victor [Your Last Name] – Bachelor of Science in Computer Science, University of Copenhagen
+Victor Malmberg Schimmell – Bachelor of Science in Computer Science, University of Copenhagen
