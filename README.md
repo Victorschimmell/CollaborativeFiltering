@@ -24,10 +24,7 @@ This project aims to:
 
 ## 📁 Contents
 
-- `data/`: Contains scripts for loading and processing MovieLens datasets
-- `metrics/`: Evaluation metrics (precision, recall, MAE, RMSE, etc.)
-- `models/`: Implementations of memory-based CF and FunkSVD
-- `experiments/`: Scripts and notebooks for running experiments
+- `data/`: Contains the MovieLens dataset
 - `results/`: Plots and evaluation outputs
 
 ## 🛠️ Technologies
@@ -35,7 +32,7 @@ This project aims to:
 - Python
 - NumPy / Pandas
 - Scikit-learn
-- Matplotlib
+- Matplotlib & Scipy
 - Surprise
 
 ## 🙋‍♂️ Author
