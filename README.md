@@ -25,7 +25,7 @@ This project aims to:
 ## 📁 Contents
 
 - `data/`: Contains the MovieLens dataset
-- `results/`: Plots and evaluation outputs
+- `results/`: Evaluation outputs
 
 ## 🛠️ Technologies
 
@@ -34,6 +34,7 @@ This project aims to:
 - Scikit-learn
 - Matplotlib & Scipy
 - Surprise
+- Time
 
 ## 🙋‍♂️ Author
 
