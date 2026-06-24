@@ -2,11 +2,11 @@
 
 This repository contains the code and experiments from my bachelor's thesis, which investigates key design choices in **memory-based collaborative filtering (CF)**. The study focuses on how different **similarity measures** and **neighborhood sizes** affect the performance of CF models, using the widely adopted **MovieLens** explicit-rating datasets.
 
-## 📌 Motivation
+## Motivation
 
 Personalized recommendation systems play a crucial role in modern digital platforms by tailoring content to individual user preferences. While **collaborative filtering** remains one of the most established techniques, the literature often emphasizes predictive accuracy, leaving a gap in understanding how specific design decisions impact performance in practice.
 
-## 🎯 Objectives
+## Objectives
 
 This project aims to:
 
@@ -15,19 +15,19 @@ This project aims to:
 - Compare memory-based CF to a lightweight model-based baseline (e.g., FunkSVD)
 - Investigate the impact of rating sparsity on the robustness of similarity-based methods
 
-## ❓ Research Questions
+## Research Questions
 
 1. **RQ1**: To what extent do different similarity measures influence the accuracy of memory-based CF?
 2. **RQ2**: How does neighborhood size (`k`) affect recommendation quality and coverage?
 3. **RQ3**: How does memory-based CF compare to a lightweight model-based method in terms of accuracy and computational cost?
 4. **RQ4**: What is the impact of rating sparsity on similarity robustness?
 
-## 📁 Contents
+## Contents
 
 - `data/`: Contains the MovieLens dataset
 - `results/`: Evaluation outputs
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - NumPy / Pandas
@@ -36,6 +36,6 @@ This project aims to:
 - Surprise
 - Time
 
-## 🙋‍♂️ Author
+## Author
 
 Victor Malmberg Schimmell – Bachelor of Science in Computer Science, University of Copenhagen
